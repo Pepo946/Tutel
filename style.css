@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    
+    margin-top: 60px;
+}
+h1{
+    font-family: 'Caveat', cursive;
+font-family: 'Libre Baskerville', serif;
+color: aliceblue;
+text-transform: uppercase;
+font-size: 2rem;
+}
+p{
+    color: aliceblue;
+    text-transform: capitalize;
+}
+img{
+    border: 5px solid white;
+    padding-top: 40px;
+    width:100%
+}
+div{
+    width: 50%;
+    margin-left:25%;
+    text-align:center ;
+}
